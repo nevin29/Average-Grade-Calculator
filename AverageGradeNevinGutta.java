@@ -1,12 +1,5 @@
-//Name: <Nevin Gutta>
-
-// Class: CS 3305
-
-// Term: Spring 2024
-
-// Instructor: Umama Tasnim
 import java.util.Scanner;
- class AverageGradeNevinGutta {
+class AverageGradeNevinGutta {
 
 
 
